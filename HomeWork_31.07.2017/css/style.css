@@ -1,0 +1,25 @@
+body{
+    background-color: #953e46;
+    width: 970px;
+    height: 1000px;
+    margin: 0 auto;
+
+}
+#upload{
+    border: solid 1px #d5b0a3;
+    padding: 5px 10px;
+    background-image: url("img/upload.ico");
+    background-color: #f4e3cf;
+}
+#search{
+    border: solid 1px #d5b0a3;
+    padding: 5px 10px;
+    background-image: url("img/upload.ico");
+    background-color: #f4e3cf;
+}
+.body .head form{
+    float: right;
+}
+.body{
+    margin-top: 25px;
+}
